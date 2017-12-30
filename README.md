@@ -8,6 +8,8 @@ A summary of the data collected: number of attacks, number of malware samples, e
 
 Any unresolved questions raised by the data collected: How do attackers find the honeypot? 
 
+This is a screenshot of the Attacks page to show how many attacks were made to the Honeypot:
+<img src='https://github.com/AnubhawM/CodePath-Week-9-Assignment/blob/master/week9_attacks.PNG' width='' alt='Number of Attacks' />
 
 
 
